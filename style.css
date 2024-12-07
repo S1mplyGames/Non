@@ -1,11 +1,12 @@
 body {
-    font-family: Arial;
+    font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
     padding: 0;
 }
 
 header {
+    font-family: Jazz LET, fantasy;
     background-color: #B149BF;
     color: white;
     padding: 20px;
